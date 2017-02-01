@@ -5,11 +5,11 @@ Setup
 npm install
 ```
 
-Compile
+Run
 ---
 
 ```
-npm run compile
+npm run dev
 ```
 
 Other Features
