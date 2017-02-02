@@ -2,12 +2,11 @@ module.exports = {
   context: __dirname + "/app",
 
   entry: {
-    javascript: "./js/app.js",
-    html: "./index.html",
+    javascript: "./js/app.js"
   },
 
   output: {
-    filename: "app.js",
+    filename: "bundle.js",
     path: __dirname + "/dist",
   },
   resolve: {
